@@ -10,7 +10,6 @@
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
-/vendor/
 .env
 .env.development
 .env.production
